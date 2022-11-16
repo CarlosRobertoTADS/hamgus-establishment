@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   hmr: false,
-  firebaseConfig: {
+  firebaseConfig : {
     apiKey: "AIzaSyBGz2haTx33OCGN9lQOKJezvpXrSaLcf1E",
     authDomain: "admin-hamgus.firebaseapp.com",
     projectId: "admin-hamgus",
     storageBucket: "admin-hamgus.appspot.com",
     messagingSenderId: "731208809676",
-    appId: "1:731208809676:web:1264322d69fe3255c71669",
-    measurementId: "G-NGT3FZB9R6"
+    appId: "1:731208809676:web:e2d25062b6c6c496c71669",
+    measurementId: "G-DD76NT5KM2"
   }
 };
 
